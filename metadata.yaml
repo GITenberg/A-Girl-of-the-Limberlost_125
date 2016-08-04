@@ -1,0 +1,34 @@
+_repo: A-Girl-of-the-Limberlost_125
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratton-Porter, Gene
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '71'
+    url: http://www.gutenberg.org/2009/agents/71
+    wikipedia: http://en.wikipedia.org/wiki/Gene_Stratton_Porter
+description: ''
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Moths -- Fiction'
+- !lcsh 'Swamps -- Fiction'
+- !lcsh 'Indiana -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PZ'
+- !lcsh 'Bildungsromans'
+- !lcc 'PS'
+- !lcsh 'Girls -- Fiction'
+- !lcsh 'Conflict of generations -- Fiction'
+- GITenberg
+title: A Girl of the Limberlost
+url: http://www.gutenberg.org/ebooks/125
